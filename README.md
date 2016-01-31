@@ -1,6 +1,10 @@
 # ADSA Spring 2016 Workshop: Introduction to Python
 Intro to Python class using the Jupyter/IPython notebook for the Association of Data Science and Analytics at UIUC.
 
+## Terminal Tutorial
+Here are the slides for the Terminal Tutorial:
+https://docs.google.com/presentation/d/1BcwId-RtkfJhRpcehult_MCTL1HyIdxKAZsN9I8IxIc/edit?usp=sharing
+
 ## Installing Python 2.7 using the Anaconda Python Distribution
 
 Download links:
