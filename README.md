@@ -7,7 +7,7 @@ https://docs.google.com/presentation/d/1BcwId-RtkfJhRpcehult_MCTL1HyIdxKAZsN9I8I
 
 ## Running the Workshop
 * Download the zip file for this workshop in the upper right corner of this page
-* Go to tmpnb.org
+* Go to [tmpnb.org](tmpnb.org)
 * Press "upload", and select the file "intro-to-python.ipynb" from the zip
 * Double click the intro-to-python file on the website and you're good to go
 
